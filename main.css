@@ -1,0 +1,47 @@
+html {
+	font-size: 16px;
+}
+
+body {
+	margin: 0;
+font-family: 'Dancing Script', cursive;
+	background-image: url(https://99px.ru/sstorage/53/2017/04/tmb_197783_4640.jpg); 
+	letter-spacing: 5px;
+background-repeat: no-repeat;
+	
+}
+.form-container {
+	background-color: #fff;
+	max-width: 450px;
+	width: 95%;
+	margin: 150px 500px 70px 700px;
+	padding: 40px 50px;
+	
+}
+#form {
+
+}
+
+input {
+	display: block;
+	width: 100%;
+	margin: 0.5rem 0;
+	padding: 0.4 0;
+	outline: none;
+	font-size: 1rem;
+	border: none;
+	background-color: #fff5bb;
+font-family: 'Dancing Script', cursive;
+letter-spacing: 5px;
+
+}
+input:hover {
+	transform: scale(1.01);
+}
+
+.form-heading {
+	margin-top: 0 ;
+	font-size: 1.5rem;
+	font-weight: 500; 
+}
+
